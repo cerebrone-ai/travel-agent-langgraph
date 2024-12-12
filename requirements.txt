@@ -1,0 +1,5 @@
+flask
+langchain
+openai
+google-search-results
+python-dotenv
